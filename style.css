@@ -1,0 +1,14 @@
+.theLocalNumers{
+    margin-top:15%;
+}
+body{
+    margin-top: 10%;
+    background-color: #759c6e;
+    color: white;
+}
+
+.head{
+    background-color: #5c7757;
+    padding: .5%;
+    border-radius: 10px;
+}
